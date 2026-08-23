@@ -10,7 +10,6 @@
 <br/><br/>
 
 <!-- SOCIAL BADGES -->
-[![Website](https://img.shields.io/badge/🌐_h4sh.site-0d1117?style=for-the-badge&logoColor=white)](https://h4sh.site/)
 [![Root-Me](https://img.shields.io/badge/🏴_Root--Me-black?style=for-the-badge&logoColor=white)](https://www.root-me.org/hash-716806)
 [![CTFtime](https://img.shields.io/badge/🚩_CTFtime-cd1f28?style=for-the-badge&logoColor=white)](https://ctftime.org/team/415636)
 
