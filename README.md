@@ -15,11 +15,9 @@
 ### 🧠 À propos
 
 - 🔐 Sécurité offensive : reverse (x86/x64, ARM, .NET, APK, Go, Rust, WASM), pwn, web, crypto
-- 🏁 CTF sur **Root-Me**, **FCSC**, **HeroCTF**, **Hack The Box**
-- 🔧 Hardware : Flipper Zero, ESP32 / M5Stack, RP2040, analyseurs logiques, SDR
-- 🖥️ Self-hosting : VPS Debian, Docker / Coolify, panels de jeux, monitoring
-- 🕹️ Retro & arcade : MiSTer FPGA, ROM hacking SNES, bornes d'arcade
-- 📫 Me joindre : [h4sh.fr](https://h4sh.fr)
+- 🏁 CTF
+- 🔧 Hardware
+- 🖥️ Self-hosting
 
 ---
 
