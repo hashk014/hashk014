@@ -15,9 +15,11 @@
 ### 🧠 À propos
 
 - 🔐 Sécurité offensive : reverse (x86/x64, ARM, .NET, APK, Go, Rust, WASM), pwn, web, crypto
-- 🏁 CTF
-- 🔧 Hardware
-- 🖥️ Self-hosting
+- 🏁 CTF sur **Root-Me**, **FCSC**, **HeroCTF**, **Hack The Box**
+- 🔧 Hardware : Flipper Zero, ESP32 / M5Stack, RP2040, analyseurs logiques, SDR
+- 🖥️ Self-hosting : VPS Debian, Docker / Coolify, panels de jeux, monitoring
+- 🕹️ Retro & arcade : MiSTer FPGA, ROM hacking SNES, bornes d'arcade
+- 📫 Me joindre : [h4sh.fr](https://h4sh.fr)
 
 ---
 
@@ -59,10 +61,23 @@
 ### 🐍 Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hashk014/hashk014/output/snake.svg" alt="snake">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hashk014/hashk014/output/snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/hashk014/hashk014/output/snake.svg">
+  </picture>
 </div>
 
+<!-- Si l'image reste cassée : la branche "output" n'existe pas encore.
+     Onglet Actions -> Generate Snake -> Run workflow. -->
+
 ---
+
+<!-- ALTERNATIVE 100% fiable aux cartes ci-dessus (workflow metrics.yml) :
+<div align="center">
+  <img src="./metrics.svg" alt="metrics">
+  <img src="./metrics.languages.svg" alt="languages">
+</div>
+-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7dd3fc&height=100&section=footer" alt="">
