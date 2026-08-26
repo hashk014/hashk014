@@ -1,51 +1,71 @@
+<h1 align="center">👋 Salut, moi c'est Hash</h1>
+
+<p align="center">
+  <a href="https://h4sh.fr"><img src="https://img.shields.io/badge/site-h4sh.fr-0f172a?style=for-the-badge&logo=firefoxbrowser&logoColor=7dd3fc" alt="h4sh.fr"></a>
+  <img src="https://komarev.com/ghpvc/?username=hashk014&style=for-the-badge&color=7dd3fc&label=PROFILE+VIEWS" alt="profile views">
+  <img src="https://img.shields.io/github/followers/hashk014?style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="followers">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=520&lines=Reverse+engineering+%26+binary+exploitation;CTF+player+(Root-Me,+FCSC,+HTB);Hardware+hacking,+RF+%2F+SDR,+firmware;Self-hosting,+Docker,+bots+%26+plugins" alt="typing">
+</p>
+
+---
+
+### 🧠 À propos
+
+- 🔐 Sécurité offensive : reverse (x86/x64, ARM, .NET, APK, Go, Rust, WASM), pwn, web, crypto
+- 🏁 CTF sur **Root-Me**, **FCSC**, **HeroCTF**, **Hack The Box**
+- 🔧 Hardware : Flipper Zero, ESP32 / M5Stack, RP2040, analyseurs logiques, SDR
+- 🖥️ Self-hosting : VPS Debian, Docker / Coolify, panels de jeux, monitoring
+- 🕹️ Retro & arcade : MiSTer FPGA, ROM hacking SNES, bornes d'arcade
+- 📫 Me joindre : [h4sh.fr](https://h4sh.fr)
+
+---
+
+### 🛠️ Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,rust,go,js,ts,bash,php&theme=dark" alt="langages"><br>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,mysql,arduino,raspberrypi,vscode,idea&theme=dark" alt="outils">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ghidra-CC0000?style=flat-square&logo=ghidra&logoColor=white">
+  <img src="https://img.shields.io/badge/IDA%20Pro-1E1E1E?style=flat-square">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/pwntools-2E2E2E?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Flipper%20Zero-FF8200?style=flat-square&logo=flipper&logoColor=white">
+</p>
+
+---
+
+### 📊 Stats (mises à jour automatiquement)
+
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=H4SH&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=high%20school%20student%20|%20CTF%20Player%20|%20I%20love%20reverse&descSize=18&descAlignY=55&descColor=8b949e"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hashk014&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0d1117" alt="stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashk014&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=7dd3fc&bg_color=0d1117" alt="top langs">
 
-<!-- PROFILE VIEWS & SOCIAL -->
-<br/>
-<img src="https://komarev.com/ghpvc/?username=hashk014&style=for-the-badge&color=161b22&labelColor=0d1117&label=PROFILE+VIEWS"/>
+<img height="165" src="https://streak-stats.demolab.com?user=hashk014&hide_border=true&theme=tokyonight&ring=7dd3fc&fire=f97316&currStreakLabel=7dd3fc" alt="streak">
 
-<br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=hashk014&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophées">
 
-<!-- SOCIAL BADGES -->
-[![Root-Me](https://img.shields.io/badge/🏴_Root--Me-black?style=for-the-badge&logoColor=white)](https://www.root-me.org/hash-716806)
-[![CTFtime](https://img.shields.io/badge/🚩_CTFtime-cd1f28?style=for-the-badge&logoColor=white)](https://ctftime.org/team/415636)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hashk014&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=f97316&area=true" alt="graphe d'activité">
 
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashk014&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="280"/>
-
-
-## `> ./stats.sh` &nbsp; GitHub Stats
+### 🐍 Contributions
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hashk014&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hashk014&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hashk014&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" width="95%"/>
+  <img src="https://raw.githubusercontent.com/hashk014/hashk014/output/snake.svg" alt="snake">
 </div>
 
 ---
 
-
-```
- ██░ ██  ▄▄▄        ██████  ██░ ██ 
-▓██░ ██▒▒████▄    ▒██    ▒ ▓██░ ██▒
-▒██▀▀██░▒██  ▀█▄  ░ ▓██▄   ▒██▀▀██░
-░▓█ ░██ ░██▄▄▄▄██   ▒   ██▒░▓█ ░██ 
-░▓█▒░██▓ ▓█   ▓██▒▒██████▒▒░▓█▒░██▓
- ▒ ░░▒░▒ ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒
- ▒ ░▒░ ░  ▒   ▒▒ ░░ ░▒  ░ ░ ▒ ░▒░ ░
- ░  ░░ ░  ░   ▒   ░  ░  ░   ░  ░░ ░
- ░  ░  ░      ░  ░      ░   ░  ░  ░
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7dd3fc&height=100&section=footer" alt="">
+</p>
